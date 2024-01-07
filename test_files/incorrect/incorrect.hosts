@@ -1,0 +1,10 @@
+proxy_server:
+ 	Name2: incorrect_name
+  Address: 192.168.1.1
+  UserName: ubuntu
+  Password: pass
+
+ftp_server:
+  Address: 172.16.10.10:24
+  UserName: anonymous
+  Password: anonymous
